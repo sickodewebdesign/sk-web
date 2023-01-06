@@ -1,0 +1,43 @@
+{
+  "name": "sk-web",
+  "displayName": "SK Web",
+  "description": "Sic Kode Web Design Web Extension Pack",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#3B82F6",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "Sergiu Waxmann",
+    "email": "sergiu@sickode.com"
+  },
+  "publisher": "sickodewebdesign",
+  "repository": "https://github.com/sickodewebdesign/sk-web",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "SK",
+    "Sic Kode",
+    "Sic Kode Web Design",
+    "SK Web",
+    "Sic Kode Web Design Web Extension Pack"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-rename-tag",
+    "pranaygp.vscode-css-peek",
+    "dbaeumer.vscode-eslint",
+    "kisstkondoros.vscode-gutter-preview",
+    "vitaliymaz.vscode-svg-previewer",
+    "bradlc.vscode-tailwindcss"
+  ],
+  "scripts": {
+    "build": "vsce package",
+    "publish": "vsce publish"
+  }
+}
