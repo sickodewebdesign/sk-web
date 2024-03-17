@@ -3,6 +3,7 @@
 - Auto Rename Tag
 - CSS Peek
 - ESLint
+- Headwind
 - Image Preview
 - SVG Previewer
 - Tailwind CSS IntelliSense

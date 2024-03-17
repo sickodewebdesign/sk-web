@@ -13,7 +13,7 @@
   },
   "publisher": "sickodewebdesign",
   "repository": "https://github.com/sickodewebdesign/sk-web",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
@@ -32,6 +32,7 @@
     "formulahendry.auto-rename-tag",
     "pranaygp.vscode-css-peek",
     "dbaeumer.vscode-eslint",
+    "heybourn.headwind",
     "kisstkondoros.vscode-gutter-preview",
     "vitaliymaz.vscode-svg-previewer",
     "bradlc.vscode-tailwindcss"
