@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.0.2
+
+- Add Auto Close Tag
+
 ## v1.0.1
 
 - Add Headwind
