@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.0.3
+
+- Change publisher
+
 ## v1.0.2
 
 - Add Auto Close Tag

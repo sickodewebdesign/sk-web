@@ -1,4 +1,4 @@
-# **Sic Kode Web Design** Web Extension Pack
+# **Sic Kode** Web Extension Pack
 
 - Auto Close Tag
 - Auto Rename Tag
